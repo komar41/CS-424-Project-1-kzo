@@ -1,4 +1,4 @@
-# Project Name: Subway
+# Subway
 Application Link: https://ktqjmz-kazi0shahrukh-omar.shinyapps.io/cs424-project1-kzo/
 
 Detailed Documentation: https://sites.google.com/view/cs424-komar3/project-1
