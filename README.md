@@ -12,7 +12,7 @@ This project was intended for visualizing the trends in ridership data in three 
 
 ### Overview Page
 
-<p align="center">
+<p>
   <img src="https://komar41.github.io/assets/img/projects/subway/overview/Overview%201.png" alt="Overview page" width="80%">
 </p>
 
