@@ -11,11 +11,6 @@ This project was intended for visualizing the trends in ridership data in three 
 ## User Interface
 
 ### Overview Page
-
-<p>
-  <img src="https://komar41.github.io/assets/img/projects/subway/overview/Overview%201.png" alt="Overview page">
-</p>
-
 The overview page provides a general view of ridership data:
 - Select a particular station
 - View yearly bar chart on the left
@@ -23,33 +18,36 @@ The overview page provides a general view of ridership data:
 - Select a specific year for the right-side chart
 - Access raw data below each chart
 
-### Comparison Page
-
-<p align="center">
-  <img src="comparison.png" alt="Comparison page" width="50%">
+<p>
+  <img src="https://komar41.github.io/assets/img/projects/subway/overview/Overview%201.png" alt="Overview page">
 </p>
 
+### Comparison Page
 The comparison page allows users to compare ridership data between two stations:
 - Select stations, chart types, and year filters for both sides
 - View raw data below each chart
 
-### Interesting Findings Page
-
-<p align="center">
-  <img src="findings.png" alt="Interesting findings page" width="50%">
+<p>
+  <img src="https://komar41.github.io/assets/img/projects/subway/overview/Overview%202.png" alt="Comparison page">
 </p>
 
+
+### Interesting Findings Page
 This page showcases interesting insights from the ridership data, such as the impact of the COVID-19 outbreak in March 2020.
+
+<p>
+  <img src="https://komar41.github.io/assets/img/projects/subway/overview/Overview%203.png" alt="Interesting findings page">
+</p>
 
 ## About the Data
 
-- **Data source:** Chicago Data Portal
+- **Data source:** [Chicago Data Portal](https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f/about_data)
 - **File size:** 39MB
 - **Content:** Ridership data for all CTA stations from 2001 to 2021
 - **Day types:** W = Weekday, A = Saturday, U = Sunday/Holiday
 
-<p align="center">
-  <img src="data.png" alt="Sample data" width="50%">
+<p>
+  <img src="https://komar41.github.io/assets/img/projects/subway/data/Data%201.png" alt="Sample data">
 </p>
 
 ### Data Processing
